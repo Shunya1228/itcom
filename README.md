@@ -1,5 +1,5 @@
 ## なんのリポジトリ？
-HTML、CSSの復習として取り組んだハンズオン　　
+HTML、CSSの復習として取り組んだハンズオン  
 参考<https://www.youtube.com/watch?v=D6r6YYHwBKg&list=PLNhrokZFqCt6Mb4HzUTRS14Q1BrBRix9X&index=25>
 
 ## 学習内容（自分用メモ）
