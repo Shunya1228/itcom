@@ -1,3 +1,6 @@
+## デプロイ先
+<https://shunya1228.github.io/itcom/>
+
 ## なんのリポジトリ？
 HTML、CSSの復習として取り組んだハンズオン  
 参考<https://www.youtube.com/watch?v=D6r6YYHwBKg&list=PLNhrokZFqCt6Mb4HzUTRS14Q1BrBRix9X&index=25>
